@@ -1,3 +1,4 @@
+
 <p align="right"><img width="10%" src="https://github.com/user-attachments/assets/ad88e650-0af1-4463-90a3-5c94ac152688"></p>
 
 <h1 align="center">Amigo Secreto</h1>
@@ -19,6 +20,7 @@
   <li>Ingresa el nombre de un amigo en el campo de texto y haz clic en "Añadir". Repite este paso para agregar más amigos.</li>
   <li>Una vez que hayas agregado todos los amigos, haz clic en "Sortear amigo" para seleccionar un amigo secreto.</li>
   <li>El resultado se mostrará en la pantalla. Para reiniciar el juego, haz clic en "Volver a jugar".</li>
+
 </ol>
 
 <h2>Requisitos</h2>
@@ -27,3 +29,6 @@
 <h2>Notas</h2>
 <p>Asegúrate de que el archivo app.js esté correctamente vinculado en el archivo HTML.</p>
 <p>Puedes personalizar el estilo de la aplicación editando el archivo style.css.</p>
+
+<h2>Demo</h2>
+<p><video src="https://github.com/user-attachments/assets/5683fecc-c5f6-4944-a8e7-eba88076eaa8" controls height="5%" width="5%"></video></p>
